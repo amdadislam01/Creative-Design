@@ -21,4 +21,4 @@ A visually stunning creative design portfolio showcasing modern web design techn
 
 ## 🖼️ Project Screenshots
 
- <img src="screenshots/light-mode.jpg" width="300"> 
+ <img src="https://i.imgur.com/gu7dggS.jpeg" width="1000"> 
